@@ -6,3 +6,9 @@ dependencies:
   - python=3.11
   - xeus-python
   - ipycanvas
+  - matplotlib
+  - pandas
+  - scipy
+  - ipyleaflet
+  - pillow
+  - sympy
